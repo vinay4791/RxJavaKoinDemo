@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS Android Assignment</string>
+
+    <string name="no_internet_connection_message">No Internet Connection</string>
+    <string name="server_error">Server Error</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="overview_txt">Overview</string>
+    <string name="moviewbox_text">MOVIEBOX</string>
+
+    <string name="error_string">Something went wrong!!! Please reconnect your internet or try again later</string>
+
+</resources>

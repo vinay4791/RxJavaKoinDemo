@@ -1,0 +1,91 @@
+Index: ../.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../.idea/workspace.xml	(date 1620670808000)
++++ ../.idea/workspace.xml	(date 1620670808000)
+@@ -0,0 +1,82 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="0ff2c6c0-0784-43f1-9c01-a65ade5a10a5" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/backbase/assignment/ui/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/backbase/assignment/ui/MainActivity.kt" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProjectId" id="1sM6JZFKApakxjlDmB95xcLKUdx" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="project.structure.last.edited" value="Project" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.0" />
++    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
++  </component>
++  <component name="SvnConfiguration">
++    <configuration />
++  </component>
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="0ff2c6c0-0784-43f1-9c01-a65ade5a10a5" name="Default Changelist" comment="" />
++      <created>1620670039280</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1620670039280</updated>
++    </task>
++    <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="334" y="33" key="#Project_Structure" timestamp="1620670124622">
++      <screen x="0" y="23" width="1536" height="857" />
++    </state>
++    <state x="334" y="33" key="#Project_Structure/0.23.1536.857@0.23.1536.857" timestamp="1620670124622" />
++    <state x="466" y="160" key="#Specifications" timestamp="1620670233508">
++      <screen x="0" y="23" width="1536" height="857" />
++    </state>
++    <state x="466" y="160" key="#Specifications/0.23.1536.857@0.23.1536.857" timestamp="1620670233508" />
++  </component>
++</project>
+\ No newline at end of file

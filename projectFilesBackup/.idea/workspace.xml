@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3725f4f-341f-4c89-8281-103202414414" name="Default Changelist" comment="Adding network check and error message">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/adapter/MoviesAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/adapter/MoviesAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Kotlin File" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sM6kQIe2Vy6fv9gT874HnVanbZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="oneplus-oneplus_a5010-6bf901c5" />
+    <property name="DEBUGGABLE_PROCESS" value="com.backbase.assignment" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="6bf901c5" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-13T00:33:47.204Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/custom/RatingView.kt_SELECTED" value="RatingView" />
+    <property name="android-custom-view/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/util/CircleView.java_SELECTED" value="CircleView" />
+    <property name="android-custom-view/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/util/CircleView.kt_SELECTED" value="CirlceView" />
+    <property name="android-custom-view/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/util/FullScreenLoadingView.kt_SELECTED" value="FullScreenLoadingView" />
+    <property name="android-custom-view/Users/vinayjohn/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-view/Users/vinayjohn/Library/Android/sdk/sources/android-29/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/backbase/assignment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1620990777725" />
+    <property name="multi-representation-preview/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/custom/RatingView.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/util/CircleView.java_selected" value="" />
+    <property name="multi-representation-preview/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/util/CircleView.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/vinayjohn/AndroidStudioProjects/cs-mobile-assignment/android/app/src/main/java/com/backbase/assignment/ui/util/FullScreenLoadingView.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/vinayjohn/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/vinayjohn/Library/Android/sdk/sources/android-29/android/widget/TextView.java_selected" value="Custom views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.backbase.assignment.ui.details.adapter" />
+      <recent name="com.backbase.assignment.ui.common" />
+      <recent name="com.backbase.assignment.ui.movies.adapter" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.backbase.assignment.ui.movies" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.backbase.assignment.ui.movies" />
+      <recent name="com.backbase.assignment.ui.movies.viewstate" />
+      <recent name="com.backbase.assignment.ui.api" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/util" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="MoviesListViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_Android_Assignment.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backbase.assignment.ui.movies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backbase.assignment.ui.movies" />
+      <option name="MAIN_CLASS_NAME" value="com.backbase.assignment.ui.movies.MoviesListViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ui in CS_Android_Assignment.app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_Android_Assignment.app" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CS_Android_Assignment.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesListRepositoryTest.should return correct movie view state when getPopularMovies API is called" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_Android_Assignment.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backbase.assignment.ui.movies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backbase.assignment.ui.movies" />
+      <option name="MAIN_CLASS_NAME" value="com.backbase.assignment.ui.movies.MoviesListRepositoryTest" />
+      <option name="METHOD_NAME" value="should return correct movie view state when getPopularMovies API is called" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesListRepositoryTest.should return error viewState while  fetching  movies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_Android_Assignment.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backbase.assignment.ui.movies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backbase.assignment.ui.movies" />
+      <option name="MAIN_CLASS_NAME" value="com.backbase.assignment.ui.movies.MoviesListRepositoryTest" />
+      <option name="METHOD_NAME" value="should return error viewState while  fetching  movies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesListRepositoryTest.should return error viewState while  fetching popular movies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_Android_Assignment.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backbase.assignment.ui.movies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backbase.assignment.ui.movies" />
+      <option name="MAIN_CLASS_NAME" value="com.backbase.assignment.ui.movies.MoviesListRepositoryTest" />
+      <option name="METHOD_NAME" value="should return error viewState while  fetching popular movies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ui in CS_Android_Assignment.app" />
+        <item itemvalue="Android JUnit.MoviesListViewModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3725f4f-341f-4c89-8281-103202414414" name="Default Changelist" comment="" />
+      <created>1620670253991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620670253991</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Adding Basic Implementation for details module structure">
+      <created>1620838015500</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1620838015500</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Adding Functionalities for viewmodel and repository">
+      <created>1620839913924</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1620839913924</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Connection of list and detail completed.">
+      <created>1620868273685</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1620868273685</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Adding Test modules for Details area">
+      <created>1620876461108</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1620876461108</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Adding Repository Test Module">
+      <created>1620876715426</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1620876715426</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Details Screen Data Mapping Completed">
+      <created>1620880411908</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1620880411908</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Code Cleanup">
+      <created>1620882423396</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1620882423396</updated>
+    </task>
+    <task id="LOCAL-00047" summary=" Details Screen Design phase - 1">
+      <created>1620958927260</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1620958927260</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Moving runtime string formatting to the converter">
+      <created>1620960066630</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1620960066630</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Using utils for fromatting date and moving date converion logic to converter with the util class. Utils are injected also">
+      <created>1620961746306</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1620961746306</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Moving image url conversion logic from ViewHolder to Converter where util class will do the actual conversion">
+      <created>1620962333175</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1620962333176</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Adding Loading Indicator functionalities in app and adding it in Details Screen">
+      <created>1620963573052</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1620963573054</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Adding api progress bar in details screen">
+      <created>1620963879887</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1620963879887</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Code Cleanup">
+      <created>1620964097294</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1620964097294</updated>
+    </task>
+    <task id="LOCAL-00054" summary="optimising design in list screen">
+      <created>1620964455230</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1620964455230</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Adding Header Component for lists">
+      <created>1620967935849</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1620967935849</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Adding Header Component for lnow playing list">
+      <created>1620968217213</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1620968217213</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Adding proper fonts">
+      <created>1620968561928</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1620968561928</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Code Cleanup with comon dimens">
+      <created>1620969281007</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1620969281008</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Adding proper scaletype for images">
+      <created>1620969560465</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1620969560465</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Removing title, Fixing bugs and code cleanup">
+      <created>1620972748232</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1620972748232</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Adding Grid view for genres">
+      <created>1620977806567</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1620977806567</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Adding Rating View Basic Implemenation">
+      <created>1620982273158</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1620982273158</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Adding Color Indicator for rating view">
+      <created>1620982813870</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1620982813870</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Code Cleanup">
+      <created>1620982971835</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1620982971835</updated>
+    </task>
+    <task id="LOCAL-00065" summary="popular movies layout cleanup">
+      <created>1620983326416</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1620983326416</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Correcting color">
+      <created>1620983509264</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1620983509264</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Code Cleanup">
+      <created>1620983803035</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1620983803035</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Code Cleanup">
+      <created>1620984470131</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1620984470131</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Code Cleanup">
+      <created>1620989090285</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1620989090285</updated>
+    </task>
+    <task id="LOCAL-00070" summary="ADDING README FILE">
+      <created>1620989401476</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1620989401476</updated>
+    </task>
+    <task id="LOCAL-00071" summary="code cleanup">
+      <created>1620989453134</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1620989453134</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Adding Flexbox for genres list">
+      <created>1620991315235</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1620991315235</updated>
+    </task>
+    <task id="LOCAL-00073" summary="UI Cleanup in design">
+      <created>1620991586310</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1620991586311</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Code Cleanup">
+      <created>1620991793347</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1620991793347</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Adding back button for details screen">
+      <created>1620992307463</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1620992307463</updated>
+    </task>
+    <task id="LOCAL-00076" summary="updating read me">
+      <created>1620992398083</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1620992398083</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Code Cleanup">
+      <created>1620993673711</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1620993673711</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Updating Readme">
+      <created>1620995522564</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1620995522564</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Updating Readme">
+      <created>1620996017881</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1620996017881</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Code Cleanup">
+      <created>1620996234175</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1620996234175</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Fixing api calling bug">
+      <created>1621000408766</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1621000408766</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Code Cleanup">
+      <created>1621001294446</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1621001294446</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Adding Unit test for details Repository">
+      <created>1621002475037</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1621002475037</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Correcting tests and oreientation of the app">
+      <created>1621002820272</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1621002820273</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Adding test cases for popular movies api fetch">
+      <created>1621003090863</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1621003090863</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Optimizing Imports">
+      <created>1621003160718</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1621003160718</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Updating readme file">
+      <created>1621003289222</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1621003289222</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Adding network check and error message">
+      <created>1621007503216</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1621007503216</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Header Component for lnow playing list" />
+    <MESSAGE value="Adding proper fonts" />
+    <MESSAGE value="Code Cleanup with comon dimens" />
+    <MESSAGE value="Adding proper scaletype for images" />
+    <MESSAGE value="Removing title, Fixing bugs and code cleanup" />
+    <MESSAGE value="Adding Grid view for genres" />
+    <MESSAGE value="Adding Rating View Basic Implemenation" />
+    <MESSAGE value="Adding Color Indicator for rating view" />
+    <MESSAGE value="popular movies layout cleanup" />
+    <MESSAGE value="Correcting color" />
+    <MESSAGE value="ADDING README FILE" />
+    <MESSAGE value="code cleanup" />
+    <MESSAGE value="Adding Flexbox for genres list" />
+    <MESSAGE value="UI Cleanup in design" />
+    <MESSAGE value="Adding back button for details screen" />
+    <MESSAGE value="updating read me" />
+    <MESSAGE value="Updating Readme" />
+    <MESSAGE value="Fixing api calling bug" />
+    <MESSAGE value="Code Cleanup" />
+    <MESSAGE value="Adding Unit test for details Repository" />
+    <MESSAGE value="Correcting tests and oreientation of the app" />
+    <MESSAGE value="Adding test cases for popular movies api fetch" />
+    <MESSAGE value="Optimizing Imports" />
+    <MESSAGE value="Updating readme file" />
+    <MESSAGE value="Adding network check and error message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding network check and error message" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="258" key="#Gradle" timestamp="1620670889615">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="531" y="258" key="#Gradle/0.23.1536.857@0.23.1536.857" timestamp="1620670889615" />
+    <state x="100" y="123" width="1336" height="657" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1620697647648">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="100" y="123" width="1336" height="657" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1536.857@0.23.1536.857" timestamp="1620697647648" />
+    <state x="547" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1621216768127">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="547" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1536.857@0.23.1536.857" timestamp="1621216768127" />
+    <state x="453" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620755047096">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="453" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1536.857@0.23.1536.857" timestamp="1620755047096" />
+    <state x="506" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620992043992">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="506" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1536.857@0.23.1536.857" timestamp="1620992043992" />
+    <state x="492" y="237" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1620975132025">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="492" y="237" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1536.857@0.23.1536.857" timestamp="1620975132025" />
+    <state x="531" y="162" key="#xdebugger.evaluate" timestamp="1621235609778">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="531" y="162" key="#xdebugger.evaluate/0.23.1536.857@0.23.1536.857" timestamp="1621235609778" />
+    <state x="356" y="213" key="AndroidCreateResourceFileDialog" timestamp="1620836996981">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="356" y="213" key="AndroidCreateResourceFileDialog/0.23.1536.857@0.23.1536.857" timestamp="1620836996981" />
+    <state x="590" y="236" key="AndroidCreateXmlResourceDialog" timestamp="1620984378543">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="590" y="236" key="AndroidCreateXmlResourceDialog/0.23.1536.857@0.23.1536.857" timestamp="1620984378543" />
+    <state x="537" y="205" key="AndroidProcessChooserDialog" timestamp="1621236661423">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="537" y="205" key="AndroidProcessChooserDialog/0.23.1536.857@0.23.1536.857" timestamp="1621236661423" />
+    <state width="578" height="438" key="DebuggerActiveHint" timestamp="1621233083065">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="578" height="438" key="DebuggerActiveHint/0.23.1536.857@0.23.1536.857" timestamp="1621233083065" />
+    <state x="232" y="111" key="DiffContextDialog" timestamp="1620701496670">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="232" y="111" key="DiffContextDialog/0.23.1536.857@0.23.1536.857" timestamp="1620701496670" />
+    <state width="1492" height="186" key="GridCell.Tab.0.bottom" timestamp="1621236762382">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.0.bottom/0.23.1536.857@0.23.1536.857" timestamp="1621236762382" />
+    <state width="1492" height="186" key="GridCell.Tab.0.center" timestamp="1621236762382">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.0.center/0.23.1536.857@0.23.1536.857" timestamp="1621236762382" />
+    <state width="1492" height="186" key="GridCell.Tab.0.left" timestamp="1621236762382">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.0.left/0.23.1536.857@0.23.1536.857" timestamp="1621236762382" />
+    <state width="1492" height="186" key="GridCell.Tab.0.right" timestamp="1621236762382">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.0.right/0.23.1536.857@0.23.1536.857" timestamp="1621236762382" />
+    <state width="1492" height="186" key="GridCell.Tab.1.bottom" timestamp="1621236762383">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.1.bottom/0.23.1536.857@0.23.1536.857" timestamp="1621236762383" />
+    <state width="1492" height="186" key="GridCell.Tab.1.center" timestamp="1621236762383">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.1.center/0.23.1536.857@0.23.1536.857" timestamp="1621236762383" />
+    <state width="1492" height="186" key="GridCell.Tab.1.left" timestamp="1621236762382">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.1.left/0.23.1536.857@0.23.1536.857" timestamp="1621236762382" />
+    <state width="1492" height="186" key="GridCell.Tab.1.right" timestamp="1621236762383">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="1492" height="186" key="GridCell.Tab.1.right/0.23.1536.857@0.23.1536.857" timestamp="1621236762383" />
+    <state x="404" y="220" key="MultipleFileMergeDialog" timestamp="1620992709497">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="404" y="220" key="MultipleFileMergeDialog/0.23.1536.857@0.23.1536.857" timestamp="1620992709497" />
+    <state x="446" y="191" key="Vcs.Push.Dialog.v2" timestamp="1621007505157">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="446" y="191" key="Vcs.Push.Dialog.v2/0.23.1536.857@0.23.1536.857" timestamp="1621007505157" />
+    <state width="768" height="428" key="XDebugger.FullValuePopup" timestamp="1620880384355">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state width="768" height="428" key="XDebugger.FullValuePopup/0.23.1536.857@0.23.1536.857" timestamp="1620880384355" />
+    <state x="545" y="236" key="chooseDestDirectoryDialog" timestamp="1620740655270">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="545" y="236" key="chooseDestDirectoryDialog/0.23.1536.857@0.23.1536.857" timestamp="1620740655270" />
+    <state x="100" y="123" width="1336" height="657" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621233474397">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="100" y="123" width="1336" height="657" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1536.857@0.23.1536.857" timestamp="1621233474397" />
+    <state x="460" y="177" width="713" height="548" key="find.popup" timestamp="1620996189438">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="460" y="177" width="713" height="548" key="find.popup/0.23.1536.857@0.23.1536.857" timestamp="1620996189438" />
+    <state x="564" y="171" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620992700517">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="564" y="171" key="git4idea.branch.GitSmartOperationDialog/0.23.1536.857@0.23.1536.857" timestamp="1620992700517" />
+    <state x="492" y="232" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1620740656458">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="492" y="232" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.23.1536.857@0.23.1536.857" timestamp="1620740656458" />
+    <state x="433" y="204" width="670" height="676" key="search.everywhere.popup" timestamp="1621007319430">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="433" y="204" width="670" height="676" key="search.everywhere.popup/0.23.1536.857@0.23.1536.857" timestamp="1621007319430" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesApiFetcherTest.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesApiFetcherTest.kt</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesListRepositoryTest.kt</url>
+          <line>67</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesListRepositoryTest.kt</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesListRepositoryTest.kt</url>
+          <line>70</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesListRepositoryTest.kt</url>
+          <line>56</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesListRepositoryTest.kt</url>
+          <line>57</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/backbase/assignment/ui/movies/MoviesListRepositoryTest.kt</url>
+          <line>59</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/common/MainActivity.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/details/DetailsFragment.kt</url>
+          <line>110</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListRepository.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>81</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesConverter.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesConverter.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/viewstate/PopularMoviesConverter.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>149</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>150</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>98</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>139</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/adapter/MoviesAdapter.kt</url>
+          <line>54</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>141</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>142</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/backbase/assignment/ui/movies/MoviesListFragment.kt</url>
+          <line>140</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

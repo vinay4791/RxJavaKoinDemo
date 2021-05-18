@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FullScreenLoadingView">
+        <attr name="loader_size" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="small" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+        <attr name="civ_circle_background_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CirlceView">
+        <attr name="radius" format="dimension"></attr>
+        <attr name="stroke_width" format="dimension"></attr>
+        <attr name="back_circle_color" format="color"></attr>
+        <attr name="front_arc_color" format="color"></attr>
+        <attr name="text_visibility" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
